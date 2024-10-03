@@ -1,5 +1,3 @@
-# kotaemon-docker-compose
-
 # Kotaemon Docker Compose
 ## Sample docker compose configuration for persisting Kotaemon
 
